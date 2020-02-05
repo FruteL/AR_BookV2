@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pig8" size="5.000000 4.504220" />
+    <ImageTarget name="pig7" size="5.000000 6.257668" />
+    <ImageTarget name="pig6" size="5.000000 2.857143" />
+    <ImageTarget name="pig5" size="5.000000 2.979592" />
+    <ImageTarget name="pig4" size="5.000000 2.877551" />
+    <ImageTarget name="pig3" size="5.000000 2.897959" />
+    <ImageTarget name="pig2" size="5.000000 3.377551" />
+    <ImageTarget name="pig" size="5.000000 4.856557" />
+    <ImageTarget name="3pigStart" size="5.000000 3.397548" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name = "screenBackground" > #FFEE58 </color >
+    <color name="blue">	#ffffff</color>
+    <color name="gradient">#02c9c9</color>
+    <color name="lightBackground">#fceb68</color>
+    <color name="darkBackground">#f2de44</color>
+    <color name="shape">#b8a200</color>
+</resources>
